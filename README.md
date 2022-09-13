@@ -4,11 +4,9 @@ I'm Full Stack Web Development Student at Trybe
 -------------------------------------------
 
 * 🌍  I live in Recife, PE, Brazil, with my mom, little niece and some pets.
-* 🖥️  See my portfolio at [VanehSann'](http://portifoliovanehvann.com).
+* 🖥️  See my portfolio at [VanehSann'](https:/https://github.com/VanehSann/).
 * ✉️  You can contact me at [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
 * 🧠  I'm learning Node.js
-
-So, don't be shy... To see more projects, keep checking my GitHub and my [portfolio](http://portifoliovanehvann.com) ( i'm always changing and updating something there ), and to see more about my professional life my [LinkedIn](https://www.linkedin.com/in/vanehsann) it's open as well.
 
 ### Skills
 
@@ -25,7 +23,7 @@ So, don't be shy... To see more projects, keep checking my GitHub and my [portfo
 
 
 ### Socials
-
+ 
 <p align="left"> <a href="https://www.github.com/VanehSann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vanehsann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vanehsann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
