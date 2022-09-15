@@ -6,7 +6,7 @@ I'm Full Stack Web Development Student at Trybe
 * 🌍  I live in Recife, PE, Brazil, with my mom, little niece and some pets.
 * 🖥️  See my portfolio at [VanehSann'](https:/https://github.com/VanehSann/).
 * ✉️  You can contact me at [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
-* 🧠  I'm learning Node.js
+* 🧠  I'm learning TypeScript, POO and SOLID
 
 ### Skills
 
