@@ -8,9 +8,12 @@ I'm Full Stack Web Development Student at Trybe
 * ✉️  You can contact me at [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
 * 🧠  I'm learning TypeScript, POO and SOLID
 
+### Socials
+ 
+<ul><li><a href="https://www.linkedin.com/in/vanehsann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on Linkedin" /></a></li></ul>
+
 ### Skills 🚀
 
-<br>
  <ul>
  <li>
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -60,10 +63,6 @@ I'm Full Stack Web Development Student at Trybe
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
   </ul></li>
-  
-### Socials
- 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on Linkedin" /></a>
 
 ### Badges
 
