@@ -5,7 +5,8 @@ I'm Full Stack Web Development Student at Trybe
 
 * 🌍  I live in Recife, PE, Brazil, with my mom, little niece and some pets.
 * 🖥️  See my portfolio at [VanehSann'](https:/https://github.com/VanehSann/).
-* ✉️  You can contact me at [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
+* ✉️ Email: [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
+* 📱 Whatsapp: +55 81 98561-3870
 * 🧠  I'm learning TypeScript, POO and SOLID
 
 ### Socials
@@ -62,6 +63,11 @@ I'm Full Stack Web Development Student at Trybe
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </ul></li>
 
 ### Badges
