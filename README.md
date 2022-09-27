@@ -24,9 +24,13 @@ I'm Full Stack Web Development Student at Trybe
 
 ### Socials
  
-<p align="left"> <a href="https://www.github.com/VanehSann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vanehsann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vanehsann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on Linkedin" /></a>
 
 ### Badges
 
-<a href="https://github.com/VanehSann" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanehSann&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
- ![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann)](https://github.com/vanehsann/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanehSann&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true) -->
+![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
+
