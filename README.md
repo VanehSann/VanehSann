@@ -73,7 +73,7 @@ I'm Full Stack Web Development Student at Trybe
 ### Badges
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann)](https://github.com/vanehsann/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true&include_all_commits=true)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanehSann&langs_count=10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true) -->
 ![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
