@@ -3,10 +3,10 @@
 I'm Full Stack Web Development Student at Trybe
 -------------------------------------------
 
-* 🌍  I live in Recife, PE, Brazil, with my mom, little niece and some pets.
+* 🌍 I live in Recife, PE, Brazil, with my mom, little niece and some pets.
 * ✉️ Email: [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
-* 📱Whatsapp: [+55 81 98561-3870](https://api.whatsapp.com/send?phone=5581985613870&text=Ol%C3%A1%2C%20eu%20vim%20pelo%20GitHub.)
-* 🧠  I'm learning TypeScript, POO and SOLID
+* 📱 Whatsapp: [+55 81 98561-3870](https://api.whatsapp.com/send?phone=5581985613870&text=Ol%C3%A1%2C%20eu%20vim%20pelo%20GitHub.)
+* 🧠 I'm learning TypeScript, POO and SOLID
 <!-- * 🖥️  See my portfolio at [VanehSann'](https:/https://github.com/VanehSann/). -->
 
 ### Socials
