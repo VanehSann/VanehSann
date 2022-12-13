@@ -76,7 +76,7 @@ I'm a full stack web developer ( React | Nodejs )
 <!-- ### Skills 🚀 -->
  <br>
 
-<img src="https://raw.githubusercontent.com/VanehSann/VanehSann/main/2_cropped_cropped.png" alt="social media linkedin" width="200px" />
+<img src="https://raw.githubusercontent.com/VanehSann/VanehSann/main/2_cropped_cropped.png" alt="social media linkedin" width="190px" />
 
 
  <ul>
