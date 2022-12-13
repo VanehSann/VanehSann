@@ -1,3 +1,6 @@
+<!-- Intro - Header -->
+<img src="https://raw.githubusercontent.com/VanehSann/VanehSann/main/1.png" alt="trybe student web full stack nodejs react"/>
+
 <!--
 
 Welcome to my GitHub, 
@@ -7,22 +10,38 @@ I'm a full stack developer ( React | Nodejs )
 ...and Student at Trybe. 
 
 -->
+<!-- Intro - Header -->
 
 
-<!-- Intro - Header -->
-<img src="https://raw.githubusercontent.com/VanehSann/VanehSann/main/1.png" alt="trybe student web full stack nodejs react"/>
-<!-- Intro - Header -->
+
+
+
+
+
 
 <!-- About Me / -->
 <br>
 
-#### 👩🏿‍🚀  As I mentioned, I'm Full Stack Web Development Student at Trybe
-#### 🏠  I live in Recife, PE, Brazil.
-#### 🌱  I'm CURRENTLY STUDYING: Python.  
+<!-- #### 👩🏿‍🚀  As I mentioned, I'm Full Stack Web Development Student at Trybe -->
+<!-- #### 🏠  I live in Recife, PE, Brazil. -->
+<!-- #### 🌱  I'm CURRENTLY STUDYING: Python.  -->
+
+<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(2).png" alt="I live in Recife, PE, Brazil" width="200px" />
+
+### Recife, PE, Brazil 🏠 
+
+<br>
+<br>
+
+<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(3).png" alt="I'm CURRENTLY STUDYING" width="400px" />
+
+### Python 🌱
 
 <br>
 
-### 🚀 Be free to contact me: 
+<!-- ### 🚀 Be free to contact me: -->
+
+<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(1).png" alt="more contact infomation" width="400px" />
 
 #### WhatsApp: [+55 81 98561-3870](https://api.whatsapp.com/send?phone=5581985613870&text=Ol%C3%A1%2C%20eu%20vim%20pelo%20GitHub.) | Email: [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
 
@@ -31,6 +50,9 @@ I'm a full stack developer ( React | Nodejs )
 
 <br>
 <!-- / About Me -->
+
+
+
 
 
 
@@ -44,6 +66,8 @@ I'm a full stack developer ( React | Nodejs )
 
 <br>
 <!-- ### Socials -->
+
+
 
 
 
@@ -110,8 +134,27 @@ I'm a full stack developer ( React | Nodejs )
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </ul></li>
   
+  
+  <!--
+
+👩🏿‍🚀 Tecnologias/Habilidades ( frontend/backend ) : 
+
+🚀 + Unix & Bash, Git & GitHub, JavaScript & DOM, HTML, CSS, JS ES6, Higher Order Functions e Testes Unitários.
+
+🚀 + React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Testes com RTL, Redux com React, Context API, React Hooks.
+
+🚀 + Banco de Dados SQL, NoSQL, Node e Express.js, MVC, API, REST, JWT, deploy com Heroku, Typescript, POO, SOLID. 
+
+🚀 + Metodologias ágeis e habilidades comportamentais ( Colaboração, inteligência emocional e pensamento analítico ).
+
+
+-->
   <br>
 <!-- ### Skills 🚀 -->
+
+
+
+
 
 
 
@@ -131,6 +174,11 @@ I'm a full stack developer ( React | Nodejs )
  ![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ### Badges -->
+
+
+
+
+
 
 <!-- Intro - Footer -->
 <img src="https://github.com/VanehSann/VanehSann/blob/main/3_cropped.png" alt="trybe student web full stack nodejs react"/>
