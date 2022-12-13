@@ -170,9 +170,6 @@ I'm a full stack web developer ( React | Nodejs )
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanehSann&langs_count=10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true) -->
 
-
- ![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
-
 <!-- ### Badges -->
 
 
@@ -183,3 +180,6 @@ I'm a full stack web developer ( React | Nodejs )
 <!-- Intro - Footer -->
 <img src="https://github.com/VanehSann/VanehSann/blob/main/3_cropped.png" alt="trybe student web full stack nodejs react"/>
 <!-- Intro - Footer -->
+
+ ![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
+
