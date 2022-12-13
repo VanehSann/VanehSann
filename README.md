@@ -20,28 +20,28 @@ I'm a full stack web developer ( React | Nodejs )
 
 
 <!-- About Me / -->
-<br>
+<!-- <br> -->
 
 <!-- #### 👩🏿‍🚀  As I mentioned, I'm Full Stack Web Development Student at Trybe -->
 <!-- #### 🏠  I live in Recife, PE, Brazil. -->
 <!-- #### 🌱  I'm CURRENTLY STUDYING: Python.  -->
 
-<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(2).png" alt="I live in Recife, PE, Brazil" width="170px" />
+<!-- <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(2).png" alt="I live in Recife, PE, Brazil" width="170px" /> -->
 
-### Recife, PE, Brazil 🏠 
+<!-- ### Recife, PE, Brazil 🏠 -->
 
-<br>
-<br>
+<!-- <br> -->
+<!-- <br> -->
 
-<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(3).png" alt="I'm CURRENTLY STUDYING" width="400px" />
+<!-- <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(3).png" alt="I'm CURRENTLY STUDYING" width="400px" /> -->
 
-### Python 🌱
+<!-- ### Python 🌱 -->
 
-<br>
+<br> 
 
 <!-- ### 🚀 Be free to contact me: -->
 
-<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(1).png" alt="more contact infomation" width="400px" />
+<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(1).png" alt="more contact infomation" width="500px" />
 
 #### WhatsApp: [+55 81 98561-3870](https://api.whatsapp.com/send?phone=5581985613870&text=Ol%C3%A1%2C%20eu%20vim%20pelo%20GitHub.) | Email: [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
 
