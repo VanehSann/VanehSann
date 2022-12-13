@@ -6,7 +6,7 @@
 Welcome to my GitHub, 
 I'm Vanessa Santos.
 
-I'm a full stack developer ( React | Nodejs )
+I'm a full stack web developer ( React | Nodejs )
 ...and Student at Trybe. 
 
 -->
@@ -26,7 +26,7 @@ I'm a full stack developer ( React | Nodejs )
 <!-- #### 🏠  I live in Recife, PE, Brazil. -->
 <!-- #### 🌱  I'm CURRENTLY STUDYING: Python.  -->
 
-<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(2).png" alt="I live in Recife, PE, Brazil" width="200px" />
+<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple%20Blue%20Pink%20Cute%20Anime%20Gaming%20Livestream%20Twitch%20Screen_cropped%20(2).png" alt="I live in Recife, PE, Brazil" width="170px" />
 
 ### Recife, PE, Brazil 🏠 
 
