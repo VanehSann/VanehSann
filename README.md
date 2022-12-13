@@ -1,19 +1,59 @@
-### Hi there 👋 My name is Vanessa Santos. 
+<!--
 
-I'm Full Stack Web Development Student at Trybe
--------------------------------------------
+Welcome to my GitHub, 
+I'm Vanessa Santos.
 
-* 🌍 I live in Recife, PE, Brazil, with my mom, little niece and some pets.
-* ✉️ Email: [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
-* 📱 Whatsapp: [+55 81 98561-3870](https://api.whatsapp.com/send?phone=5581985613870&text=Ol%C3%A1%2C%20eu%20vim%20pelo%20GitHub.)
-* 🧠 I'm learning TypeScript, POO, SOLID and MongoDb
+I'm a full stack developer ( React | Nodejs )
+...and Student at Trybe. 
+
+-->
+
+
+<!-- Intro - Header -->
+<img src="https://raw.githubusercontent.com/VanehSann/VanehSann/main/1.png" alt="trybe student web full stack nodejs react"/>
+<!-- Intro - Header -->
+
+<!-- About Me / -->
+<br>
+
+#### 👩🏿‍🚀  As I mentioned, I'm Full Stack Web Development Student at Trybe
+#### 🏠  I live in Recife, PE, Brazil.
+#### 🌱  I'm CURRENTLY STUDYING: Python.  
+
+<br>
+
+### 🚀 Be free to contact me: 
+
+#### WhatsApp: [+55 81 98561-3870](https://api.whatsapp.com/send?phone=5581985613870&text=Ol%C3%A1%2C%20eu%20vim%20pelo%20GitHub.) | Email: [vanessacbsantos22@gmail.com](mailto:vanessacbsantos22@gmail.com).
+
+
 <!-- * 🖥️  See my portfolio at [VanehSann'](https:/https://github.com/VanehSann/). -->
 
-### Socials
- 
-<ul><li><a href="https://www.linkedin.com/in/vanehsann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on Linkedin" /></a></li></ul>
+<br>
+<!-- / About Me -->
 
-### Skills 🚀
+
+
+
+<!-- ### Socials -->
+<br>
+
+<img src="https://github.com/VanehSann/VanehSann/blob/main/2_cropped%20(1).png" alt="social media linkedin" width="200px" />
+ 
+<a href="https://www.linkedin.com/in/vanehsann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow on Linkedin" /></a>
+
+<br>
+<!-- ### Socials -->
+
+
+
+
+
+<!-- ### Skills 🚀 -->
+ <br>
+
+<img src="https://raw.githubusercontent.com/VanehSann/VanehSann/main/2_cropped.png" alt="social media linkedin" width="230px" />
+
 
  <ul>
  <li>
@@ -69,12 +109,29 @@ I'm Full Stack Web Development Student at Trybe
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </ul></li>
+  
+  <br>
+<!-- ### Skills 🚀 -->
 
-### Badges
+
+
+
+<!-- ### Badges -->
+<br>
+
+<img src="https://github.com/VanehSann/VanehSann/blob/main/2_cropped%20(2).png" alt="social media linkedin" width="200px" />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann)](https://github.com/vanehsann/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true&include_all_commits=true)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanehSann&langs_count=10)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true) -->
-![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
 
+
+ ![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
+
+<!-- ### Badges -->
+
+<!-- Intro - Footer -->
+<img src="https://github.com/VanehSann/VanehSann/blob/main/3_cropped.png" alt="trybe student web full stack nodejs react"/>
+<!-- Intro - Footer -->
