@@ -1,23 +1,10 @@
 <!-- Intro - Header -->
-<img src="https://raw.githubusercontent.com/VanehSann/VanehSann/main/1.png" alt="trybe student web full stack nodejs react"/>
 
-<!--
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&duration=1000&pause=1000&color=0969DA&center=true&vCenter=true&width=500&height=60&lines=+WELCOME+TO+GITHUB+%3A)++;I'M+VANESSA+SANTOS.;+I'M+A+FULL+STACK+WEB+DEVELOPER...;+...AND+STUDENT+AT+TRYBE...;+...FROM+BRAZIL." alt="Typing SVG" /></a>
+</div>
 
-Welcome to my GitHub, 
-I'm Vanessa Santos.
-
-I'm a full stack web developer ( React | Nodejs )
-...and Student at Trybe. 
-
--->
 <!-- Intro - Header -->
-
-
-
-
-
-
-
 
 <!-- About Me / -->
 <!-- <br> -->
@@ -155,31 +142,20 @@ I'm a full stack web developer ( React | Nodejs )
 
 
 
-
-
-
-
 <!-- ### Badges -->
-<br>
 
 <img src="https://github.com/VanehSann/VanehSann/blob/main/2_cropped%20(2).png" alt="social media linkedin" width="200px" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann)](https://github.com/vanehsann/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true&include_all_commits=true)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanehSann&langs_count=10)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=true) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann&layout=compact&theme=transparent)](https://github.com/vanehsann/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=false&include_all_commits=true&theme=transparent&hide=issues,prs)
 
 <!-- ### Badges -->
 
 
-
-
-
-
 <!-- Intro - Footer -->
 <img src="https://github.com/VanehSann/VanehSann/blob/main/3_cropped.png" alt="trybe student web full stack nodejs react"/>
+
+![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
 <!-- Intro - Footer -->
-
- ![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
-
