@@ -4,7 +4,7 @@
   <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple_Blue_Pink_Cute_Anime_Gaming_Livestream_Twitch_Screen__3_-removebg-preview%20(1).png" />
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&duration=1000&pause=1000&color=0969DA&center=true&vCenter=true&width=500&height=60&lines=+WELCOME+TO+GITHUB+%3A)++;I'M+VANESSA+SANTOS.;+I'M+A+FULL+STACK+WEB+DEVELOPER...;+...AND+STUDENT+AT+TRYBE...;+...FROM+BRAZIL." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&duration=1000&pause=1000&color=0969DA&center=true&vCenter=true&width=500&height=60&lines=+WELCOME+TO+MY+GITHUB+%3A)++;I'M+VANESSA+SANTOS.;+I'M+A+FULL+STACK+WEB+DEVELOPER...;+...AND+STUDENT+AT+TRYBE...;+...FROM+BRAZIL." alt="Typing SVG" />
 </div>
 
 <!-- Intro - Header -->
