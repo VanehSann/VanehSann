@@ -33,5 +33,4 @@
 
 <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple_Blue_Pink_Cute_Anime_Gaming_Livestream_Twitch_Screen__1___1_-removebg-preview.png" alt="trybe student web full stack nodejs react"/>
 
-![Snake animation](https://github.com/vanehsann/vanehsann/blob/output/github-contribution-grid-snake.svg)
 <!-- Intro - Footer -->
