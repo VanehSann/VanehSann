@@ -10,16 +10,18 @@
 <!-- Intro - Header -->
 
 <!-- Social -->
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/vanehsann/">
-    <img src="https://img.shields.io/badge/Gmail-0969da?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/vanehsann/">
-    <img src="https://img.shields.io/badge/Whatsapp-0969da?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
   <a href="https://www.linkedin.com/in/vanehsann/">
     <img src="https://img.shields.io/badge/LinkedIn-0969da?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/5581985613870?text=Oie.%20Vim%20pelo%20Github...">
+    <img src="https://img.shields.io/badge/Whatsapp-0969da?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="mailto:vanessacbsantos22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0969da?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
