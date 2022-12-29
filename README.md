@@ -13,14 +13,14 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/vanehsann/">
-    <img src="https://img.shields.io/badge/LinkedIn-0969da?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0969da?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"/>
   </a>
 
-  <a href="https://wa.me/5581985613870?text=Oie.%20Vim%20pelo%20Github...">
+  <a href="https://wa.me/5581985613870?text=Oie.%20Vim%20pelo%20Github..."  target="_blank">
     <img src="https://img.shields.io/badge/Whatsapp-0969da?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-  <a href="mailto:vanessacbsantos22@gmail.com">
+  <a href="mailto:vanessacbsantos22@gmail.com"  target="_blank">
     <img src="https://img.shields.io/badge/Gmail-0969da?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -141,7 +141,7 @@
 <!-- Tools -->
 <br>
 <!-- Intro - Footer -->
-
-<img src="https://github.com/VanehSann/VanehSann/blob/main/3__1_-removebg-preview.png" alt="trybe student web full stack nodejs react" />
-
+<div align="center">
+  <img src="https://github.com/VanehSann/VanehSann/blob/main/3__1_-removebg-preview.png" alt="trybe student web full stack nodejs react" />
+</div>
 <!-- Intro - Footer -->
