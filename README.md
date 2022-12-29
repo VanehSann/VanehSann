@@ -34,10 +34,11 @@
 
 <!-- ### Badges -->
 
-<!-- Skills - Primary -->
-
+<!-- Main Skills -->
 <div>
-  <h2> Primary Skill</h2>
+  <img src="" />
+</div>
+<div>
   <img src="https://img.shields.io/badge/HTML-0969da?style=for-the-badge&logo=html5&logoColor=white" />
 
   <img src="https://img.shields.io/badge/CSS-0969da?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -61,22 +62,27 @@
   <img src="https://img.shields.io/badge/Jest-0969da?style=for-the-badge&logo=Jest&logoColor=white" />
 
   <img src="https://img.shields.io/badge/sequelize-0969da?style=for-the-badge&logo=sequelize&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Docker-0969da?style=for-the-badge&logo=docker&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Git-0969da?style=for-the-badge&logo=git&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Windows-0969da?style=for-the-badge&logo=windows&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Linux-0969da?style=for-the-badge&logo=linux&logoColor=white" />
-
-  </ul>
-  </li>
 
 </div>
 
-<!-- Skills - Primary -->
+<!-- Main Skills -->
 
-<!-- Skills - Secondary -->
+<!-- Other Knowledge -->
 
 <div>
-  <h2>Secndary Skills</h2>
+  <img src="" />
+</div>
+
+<div>
+  
   <img src="https://img.shields.io/badge/Typescript-0969da?style=for-the-badge&logo=typescript&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Python-0969da?style=for-the-badge&logo=python&logoColor=white" />
@@ -84,21 +90,28 @@
   <img src="https://img.shields.io/badge/Heroku-0969da?style=for-the-badge&logo=heroku&logoColor=white" />
 
   <img src="https://img.shields.io/badge/MongoDB-0969da?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/SQLite-0969da?style=for-the-badge&logo=sqlite&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/Flask-0969da?style=for-the-badge&logo=flask&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Tailwind_CSS-0969da?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Bootstrap-0969da?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
   <img src="https://img.shields.io/badge/PHP-0969da?style=for-the-badge&logo=php&logoColor=white" />
+
 </div>
 
-<!-- Skills - Secondary -->
+<!-- Other Knowledge -->
 
-<!-- Skills - Learning -->
+<!-- Studying in this moment -->
+<div> 
+  <img src="" />
+</div>
 
 <div>
-  <h2>Learning</h2>
+  
   <img src="https://img.shields.io/badge/Python-0969da?style=for-the-badge&logo=python&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Typescript-0969da?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -107,19 +120,22 @@
 
 </div>
 
-<!-- Skills - Learning -->
+<!-- Studying in this moment -->
 
-<!-- Skills - Learning -->
+<!-- Tools -->
+<div> 
+  <img src="" />
+</div>
 
 <div>
-  <h2>Tools</h2>
+  
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-0969da?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-0969da?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
 
 </div>
 
-<!-- Skills - Learning -->
+<!-- Tools -->
 <br>
 <!-- Intro - Footer -->
 
