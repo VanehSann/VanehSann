@@ -13,12 +13,18 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vanehsann/">
+    <img src="https://img.shields.io/badge/Gmail-0969da?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vanehsann/">
+    <img src="https://img.shields.io/badge/Whatsapp-0969da?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vanehsann/">
     <img src="https://img.shields.io/badge/LinkedIn-0969da?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 <!-- Social -->
-
+<br>
 <!-- ### Badges -->
 
 <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple_Blue_Pink_Cute_Anime_Gaming_Livestream_Twitch_Screen__4___1_-removebg-preview.png" alt="social media linkedin" width="120px" />
