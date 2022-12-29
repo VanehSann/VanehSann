@@ -33,11 +33,12 @@
 | :-: | :-: |
 
 <!-- ### Badges -->
-
+<br>
 <!-- Main Skills -->
 <div>
-  <img src="" />
+  <img src="https://github.com/VanehSann/VanehSann/blob/main/2__1_-removebg-preview.png" width="145px" />
 </div>
+<br>
 <div>
   <img src="https://img.shields.io/badge/HTML-0969da?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -74,13 +75,13 @@
 </div>
 
 <!-- Main Skills -->
-
+<br>
 <!-- Other Knowledge -->
 
 <div>
-  <img src="" />
+  <img src="https://github.com/VanehSann/VanehSann/blob/main/2__2_-removebg-preview.png" width="214x" />
 </div>
-
+<br>
 <div>
   
   <img src="https://img.shields.io/badge/Typescript-0969da?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -104,12 +105,12 @@
 </div>
 
 <!-- Other Knowledge -->
-
+<br>
 <!-- Studying in this moment -->
 <div> 
-  <img src="" />
+  <img src="https://github.com/VanehSann/VanehSann/blob/main/1__1_-removebg-preview.png" width="166px" />
 </div>
-
+<br>
 <div>
   
   <img src="https://img.shields.io/badge/Python-0969da?style=for-the-badge&logo=python&logoColor=white" />
@@ -121,12 +122,12 @@
 </div>
 
 <!-- Studying in this moment -->
-
+<br>
 <!-- Tools -->
 <div> 
-  <img src="" />
+  <img src="https://github.com/VanehSann/VanehSann/blob/main/2__3_-removebg-preview.png" width="104px" />
 </div>
-
+<br>
 <div>
   
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-0969da?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -139,6 +140,6 @@
 <br>
 <!-- Intro - Footer -->
 
-<img src="https://github.com/VanehSann/VanehSann/blob/main/Purple_Blue_Pink_Cute_Anime_Gaming_Livestream_Twitch_Screen__1___1_-removebg-preview.png" alt="trybe student web full stack nodejs react" />
+<img src="https://github.com/VanehSann/VanehSann/blob/main/3__1_-removebg-preview.png" alt="trybe student web full stack nodejs react" />
 
 <!-- Intro - Footer -->
