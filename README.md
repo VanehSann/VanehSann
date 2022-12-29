@@ -77,7 +77,7 @@
 </div>
 
 <!-- Main Skills -->
-<br>
+<br><br>
 <!-- Other Knowledge -->
 
 <div>
@@ -107,7 +107,7 @@
 </div>
 
 <!-- Other Knowledge -->
-<br>
+<br><br>
 <!-- Studying in this moment -->
 <div> 
   <img src="https://github.com/VanehSann/VanehSann/blob/main/1__1_-removebg-preview.png" width="166px" />
@@ -124,7 +124,7 @@
 </div>
 
 <!-- Studying in this moment -->
-<br>
+<br><br>
 <!-- Tools -->
 <div> 
   <img src="https://github.com/VanehSann/VanehSann/blob/main/2__3_-removebg-preview.png" width="104px" />
@@ -139,7 +139,7 @@
 </div>
 
 <!-- Tools -->
-<br>
+<br><br>
 <!-- Intro - Footer -->
 <div align="center">
   <img src="https://github.com/VanehSann/VanehSann/blob/main/3__1_-removebg-preview.png" alt="trybe student web full stack nodejs react" />
