@@ -31,8 +31,10 @@
 
 <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple_Blue_Pink_Cute_Anime_Gaming_Livestream_Twitch_Screen__4___1_-removebg-preview.png" alt="social media linkedin" width="120px" />
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann&layout=compact&theme=transparent&hide_border=true)](https://github.com/vanehsann/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanehsann&show_icons=false&include_all_commits=true&theme=transparent&hide=issues,prs&hide_border=true) |
+ | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann&langs_count=8&layout=compact&theme=transparent&hide_border=true)](https://github.com/vanehsann/github-readme-stats) | ![General Stats](https://github-readme-stats.vercel.app/api?username=vanehsann&count_private=true&show_icons=false&theme=transparent) |
 | :-: | :-: |
+
+
 
 <!-- ### Badges -->
 <br>
