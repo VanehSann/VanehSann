@@ -31,7 +31,7 @@
 
 <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple_Blue_Pink_Cute_Anime_Gaming_Livestream_Twitch_Screen__4___1_-removebg-preview.png" alt="social media linkedin" width="120px" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann&langs_count=8&layout=compact&theme=transparent)](https://github.com/vanehsann/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann&langs_count=10&layout=compact&theme=transparent&title=Top%20Languages)](https://github.com/vanehsann/github-readme-stats)
 
 <!--  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanehsann&langs_count=8&layout=compact&theme=transparent&hide_border=true)](https://github.com/vanehsann/github-readme-stats) | ![General Stats](https://github-readme-stats.vercel.app/api?username=vanehsann&count_private=true&show_icons=false&theme=transparent) |
 | :-: | :-: | -->
@@ -99,14 +99,8 @@
   <img src="https://img.shields.io/badge/MongoDB-0969da?style=for-the-badge&logo=mongodb&logoColor=white" />
   
   <img src="https://img.shields.io/badge/SQLite-0969da?style=for-the-badge&logo=sqlite&logoColor=white" />
- 
-  <img src="https://img.shields.io/badge/Flask-0969da?style=for-the-badge&logo=flask&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0969da?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Bootstrap-0969da?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PHP-0969da?style=for-the-badge&logo=php&logoColor=white" />
 
 </div>
 
@@ -123,7 +117,7 @@
 
   <img src="https://img.shields.io/badge/Typescript-0969da?style=for-the-badge&logo=typescript&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Angular-0969da?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0969da?style=for-the-badge&logo=java&logoColor=white" />
 
 </div>
 
