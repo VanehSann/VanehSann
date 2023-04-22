@@ -1,7 +1,7 @@
 <!-- Intro - Header -->
   <html>
   <head>
-  <link rel="stylesheet" href="path/to/style.css"></head>
+  <link rel="stylesheet" href="https://github.com/VanehSann/VanehSann/blob/main/style.css"></head>
   <body>
 <div align="center">
   <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple_Blue_Pink_Cute_Anime_Gaming_Livestream_Twitch_Screen__3_-removebg-preview%20(1).png" />
