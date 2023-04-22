@@ -1,5 +1,8 @@
 <!-- Intro - Header -->
-
+  <html>
+  <head>
+  <link rel="stylesheet" href="path/to/style.css"></head>
+  <body>
 <div align="center">
   <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple_Blue_Pink_Cute_Anime_Gaming_Livestream_Twitch_Screen__3_-removebg-preview%20(1).png" />
 </div>
@@ -141,3 +144,5 @@
   <img src="https://github.com/VanehSann/VanehSann/blob/main/3__1_-removebg-preview.png" alt="trybe student web full stack nodejs react" />
 </div>
 <!-- Intro - Footer -->
+  </body>
+  </html>
