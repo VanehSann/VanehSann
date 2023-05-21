@@ -6,7 +6,7 @@
   </head>
   <body>
 <div align="center">
-  <img src="https://github.com/VanehSann/VanehSann/blob/main/Purple_Blue_Pink_Cute_Anime_Gaming_Livestream_Twitch_Screen__3_-removebg-preview%20(1).png" />
+  <img src="https://github.com/VanehSann/VanehSann/blob/main/Blue_Modern_Illustrative_Gaming_Influencer_YouTube_Channel_Art-removebg-preview.png" width="200px" />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&duration=1500&pause=1000&multiline=true&color=0969DA&center=true&vCenter=true&width=500&height=160&lines=+WELCOME+TO+MY+GITHUB+%3A)++;I'M+VANESSA+SANTOS.;+I'M+A+FULL+STACK+WEB+DEVELOPER...;+...AND+STUDENT+AT+TRYBE...;+...FROM+BRAZIL." alt="Typing SVG" />
@@ -143,7 +143,7 @@
 <br><br>
 <!-- Intro - Footer -->
 <div align="center">
-  <img src="https://github.com/VanehSann/VanehSann/blob/main/3__1_-removebg-preview.png" alt="trybe student web full stack nodejs react" />
+  <img src="https://github.com/VanehSann/VanehSann/blob/main/Blue_Modern_Illustrative_Gaming_Influencer_YouTube_Channel_Art__1_-removebg-preview.png" alt="trybe student web full stack nodejs react" width="300px" />
 </div>
 <!-- Intro - Footer -->
   </body>
