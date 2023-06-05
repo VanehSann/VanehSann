@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&duration=1500&pause=0&multiline=true&color=0969DA&center=true&vCenter=true&width=500&height=75&lines=+WELCOME+TO+MY+GITHUB+%3A)++;I'M+VANESSA+SANTOS." alt="Typing SVG" />
   </div>
     <div align="center">
-    <img src="https://github.com/VanehSann/VanehSann/blob/main/Blue_Modern_Illustrative_Gaming_Influencer_YouTube_Channel_Art-removebg-preview.png" width="200px" />
+    <img src="https://github.com/VanehSann/VanehSann/blob/main/vanehsann.png" width="200px" />
   </div>
   <!-- Intro - Header -->
 
