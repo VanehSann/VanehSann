@@ -104,7 +104,7 @@
   <br><br>
   <!-- Intro - Footer -->
   <div align="center">
-    <img src="https://github.com/VanehSann/VanehSann/blob/main/Blue_Modern_Illustrative_Gaming_Influencer_YouTube_Channel_Art__1_-removebg-preview.png" alt="trybe student web full stack nodejs react" width="300px" />
+    <img src="https://github.com/VanehSann/VanehSann/blob/main/by-vanehsann.png" alt="avatar and by vanehsann text" width="300px" />
   </div>
   <!-- Intro - Footer -->
 </body>
