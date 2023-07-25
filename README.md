@@ -23,7 +23,9 @@
     <a href="https://vanehsann.github.io/portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/🤍%20My%20Portfolio%20Website-578d95?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" />
     </a>
-
+    <a href="https://vanehsann.github.io/portfolio/assets/curriculo/vanehsann_profile.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Download%20CV-578d95?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio" />
+    </a>
   </div>
   <!-- Social -->
   <br>
