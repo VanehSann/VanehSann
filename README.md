@@ -35,7 +35,7 @@
   </div>
   <!-- ### ABOUT ME -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=1&color=0969DA&vCenter=true&multiline=true&repeat=false&width=500&height=39&lines=ABOUT+ME" alt="Typing SVG" />
-  <p>I'm Vanessa Santos, a passionate Full Stack Developer Jr with expertise in HTML, CSS, JavaScript, React, Node.js, and more. I create this space to showcase my prideful projects, contributions, and experiences in the tech world.</p>
+  <p>I'm Vanessa Santos, a passionate Full Stack Developer Jr with expertise in HTML, CSS, JavaScript, React, Node.js, and more. I create this space to showcase my prideful projects, contributions, and experiences in the tech community.</p>
   <!-- ### ABOUT ME -->
   <br>
     <!-- ### Badges -->
